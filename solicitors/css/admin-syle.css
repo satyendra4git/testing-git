@@ -1,0 +1,92 @@
+
+table#sol_dashboard {
+    border-collapse: collapse;
+    margin-top: 15px;
+    width: 100%;
+    overflow: hidden;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+    font-size: 12px;
+    min-height: 45px;
+}
+table#sol_dashboard td {
+	border-left: 1px solid #ddd;
+}
+table#sol_dashboard > tbody tr td:last-child {
+	border-right: 1px solid #ddd;
+}
+table#sol_dashboard tr:nth-child(even){
+	background:#fff;
+}
+table#sol_dashboard > tbody tr:last-child {
+    border-bottom: 2px solid #ddd;
+}
+table#sol_dashboard td a.editbutton{
+	cursor:pointer;
+}
+.all_search_admin {
+    float: left;
+    width: auto;
+    margin-right: 10px;
+}
+div#results table td {
+    border: 1px solid #ddd;
+    border-collapse: collapse;
+    display: table-cell;
+    vertical-align: middle;
+    width: auto;
+}
+
+table {
+    width: 100%;
+    margin-top: 15px;
+}
+div#results {
+    width: 100%;
+    overflow: auto;
+    display: inline-block;
+}
+div#results {
+    display: inline-block;
+}
+.tabcontent{
+overflow: auto;
+    width: 100%;
+}
+table#sol_dashboard  th {
+    background: #002e5d;
+    color: #fff;
+}
+table#sol_dashboard td a.editbutton, table#sol_dashboard td a.updatebutton {
+    cursor: pointer;
+    background: #002e5d;
+    padding: 5px 10px;
+    border-radius: 4px;
+    color: #fff;
+}
+
+a.links {
+    background: #fff;
+    color:  #002e5d;
+    padding: 3px 5px;
+    display: inline-block;
+    margin-top: 5px;
+    text-decoration: none;
+    border: 1px solid #002e5d;
+}
+a.selected,a.links:hover {
+    color: #fff;
+    border: 1px solid #002e5d;
+    padding: 3px 5px;
+    text-decoration: none;
+    background: #002e5d;
+}
+td.actual_date, td.outdate {
+    border: none;
+    line-height: 47px;
+}
+div#results table {
+    width: 100%;
+}
