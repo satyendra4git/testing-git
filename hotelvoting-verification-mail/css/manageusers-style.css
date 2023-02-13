@@ -1,0 +1,98 @@
+.form-msg{
+    text-align: center;
+    padding: 21px;
+    background: #ededed;
+}
+.rerror{ color: #ff0000; }
+.rsucess{ color: #0F7A10; } 
+.profile_cnt,
+.generic_cnt{
+    height: 235px;
+    overflow: hidden;
+}
+.dashborad-wrap .page-title{
+	font-size: 28px;
+}
+.profile_cnt .swipebox img,
+.generic_cnt .swipebox img{
+  width: 100%;
+}
+#kontakt,
+#galleri,
+#status,
+#galleri .your-pics-wrap{
+	width: 100%;
+	float: left;
+}
+#galleri .your-pics-wrap h3{
+	padding: 0 15px;
+}
+#status{
+	padding: 0 15px;
+}
+
+form .form-group .form-control{
+	height: 40px;
+}
+form .form-group strong{
+	margin-bottom: 8px;
+	display: block;
+}
+form .form-group #uservices.form-control,
+form .form-group #uworkspaces.form-control{
+	height: 125px;
+}
+#status .form-group .checkbox input[type=checkbox]{
+	margin: 0;
+}
+#status .form-group .checkbox a.btn-default{
+	padding-left: 25px;
+}
+button.btn[type="submit"] {
+    background: #3b006a;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 14px;
+    margin-top: 0;
+    padding: 6px 13px;
+    border: none;
+}
+button.btn[type="submit"]:hover{
+	background: #f36b22;
+    color: #fff;
+}
+button.btn.save-setting[type="submit"] {
+	margin-top: 15px;
+}
+
+.upload-pictures{
+	width: 100%;
+	float: left;
+	padding: 0 15px 20px;
+}
+.manageusers_cnt table tr td{
+	padding: 10px 5px;
+	font-size: 13px;
+}
+ul.page-numbers li {
+    float: left;
+    padding: 3px;
+    margin: 3px;
+    background: #000;
+    border: 1px solid #ffba00;
+}
+
+ul.page-numbers li.active {
+    float: left;
+    padding: 3px;
+    margin: 3px;
+    background: #ffba00;
+    border: 1px solid #000;
+}
+
+ul.page-numbers li a {
+ 
+   color: #ffffff;
+   font-size: 15px;
+
+}
