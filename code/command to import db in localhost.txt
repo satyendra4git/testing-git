@@ -1,0 +1,5 @@
+Move to directory where xampp is installed:-
+
+D:\xampp\mysql\bin>mysql -u root -p   jordan_healthdish_new_aws < D:/xampp/htdocs/healthdish-new-aws/jordan_healthdish_new_aws.sql
+
+Note:- Find and replace all utf8mb4_unicode_520_ci with utf8mb4_unicode_ci if coalation error occured

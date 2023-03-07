@@ -1,0 +1,6 @@
+URLs:- 
+1. Generate any mysql query using AI
+Url:- https://www.text2sql.ai/app
+
+2. best Tutorials site
+Url:- https://www.geeksforgeeks.org/

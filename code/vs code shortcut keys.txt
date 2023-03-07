@@ -1,0 +1,4 @@
+/* VS code shortcut */
+Shortcut                                   result
+Shift+Alt+up/down key  -        Clone current/selected lines of code
+Alt+click              -        multiple cursors

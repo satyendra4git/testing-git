@@ -1,0 +1,6 @@
+Wp Options generation online tool
+------------------------------------------------------------------
+
+Url1:- https://jeremyhixon.com/tool/wordpress-option-page-generator/
+
+URL2:- http://wpsettingsapi.jeroensormani.com/
